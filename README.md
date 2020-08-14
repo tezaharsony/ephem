@@ -37,8 +37,6 @@ https://www.postman.com/downloads/
 ```
 
 3. Import postman collection 
-```sh
 please refer this to the [article](https://kb.datamotion.com/?ht_kb=postman-instructions-for-exporting-and-importing) for instruction how to import collection
-```
 
 
