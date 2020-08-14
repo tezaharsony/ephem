@@ -1,0 +1,3 @@
+rulesNum,ruleType,startDate,stopDate,planetNum,planetDate,planetLong,degree
+1,1,01-Jan-00,31-Dec-10,1,,128.33,"0,15,90,180"
+2,1,01-Jan-00,31-Dec-10,1,12-Jun-97,,"0,15,90,180"
